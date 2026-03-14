@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureeproject",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "508766d9-8fce-4fc0-8019-50e9ab6565c8",
+		"tenantId": "ff6f4db3-ad3d-42c2-945c-52457110ad47"
+	}
+}
